@@ -1,0 +1,59 @@
+.Todo {
+    display: grid;
+    place-items: center;
+    /* height: 100vh; */
+}
+
+.Titulo {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    background-color: #c9c9c9; 
+    max-width: 100%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 30px;
+}
+
+.cuadrado {
+    text-align: center;
+    color: rgb(14, 14, 14);
+    padding: 15px;
+    background-color: #fffcf7; 
+    max-width: 100%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 30px;
+}
+
+.cuadrado2 {
+    text-align: center;
+    color: rgb(14, 14, 14);
+    padding: 15px;
+    background-color: #fffcf7; 
+    max-width: 100%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 30px;
+    width: 1000px;
+    height: 800px;
+}
+
+/*
+.cuadrado3 {
+    text-align: center;
+    color: rgb(14, 14, 14);
+    padding: 15px;
+    background-color: #c9c9c9; 
+    max-width: 100%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 30px;
+    width: 500px;
+    height: 825px;
+}
+*/
