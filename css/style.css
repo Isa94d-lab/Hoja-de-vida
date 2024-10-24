@@ -69,10 +69,253 @@
 }
 
 .Imagen {
-    width: 25; 
-    height: 25;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 50%;
+    margin: 15px;
+    width: 100px;
+    height: 100px;
+
 }
 
 .Info {
     text-align: left;
+}
+
+.Nombre {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Apellidos {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Email {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Contacto {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Edad {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Direccion {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Estudios {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+.Bachillerato {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Primaria {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Primaria2 {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+.Proyectos {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+.Liga {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+ul {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Cursos{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Curso1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Curso2{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+.Trabajo{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Experiencia {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.si {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
+}
+
+.Skills {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    background-color: rgb(204, 204, 204); 
+    max-width: 50%;
+    border: 2px rgb(48, 114, 177);
+    border-radius: 10px;
+    margin: 50px;
+    font-size: 15px;
 }
